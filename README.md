@@ -1,2 +1,1 @@
-# Landing_Pages
-Contains Landing Pages of different Brands
+# Frontend: Landing page for KFC
